@@ -1,3 +1,5 @@
 **/classes/*.cls
-**/triggers/*.trigger
 **/layouts/*.layout-meta.xml
+**/triggers/**
+**/lwc/**
+**/pages/**
