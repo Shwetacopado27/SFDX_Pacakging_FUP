@@ -6,6 +6,13 @@
             "package": "SFDX_Pacakging_FUP",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "Apex_Class_Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "SFDX_Pacakging_FUP",
@@ -13,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "SFDX_Pacakging_FUP": "0Ho7Q0000008OUaSAM"
+        "SFDX_Pacakging_FUP": "0Ho7Q0000008OUaSAM",
+        "Apex_Class_Package": "0Ho7Q0000008OUkSAM"
     }
 }
