@@ -21,6 +21,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "SFDX_Pacakging_FUP": "0Ho7Q0000008OUaSAM",
-        "Apex_Class_Package": "0Ho7Q0000008OUkSAM"
+        "Apex_Class_Package": "0Ho7Q0000008OUkSAM",
+        "Apex_Class_Package@1.0.0-0-main": "04t7Q000000d2b8QAA"
     }
 }
